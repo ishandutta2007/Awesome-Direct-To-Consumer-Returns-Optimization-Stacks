@@ -61,63 +61,63 @@ The global reverse logistics and returns management market is estimated at appro
 
 ## 💻 Open-Source GitHub Projects
 
-Sorted by GitHub Stars (descending):
+Sorted by GitHub_Stars (descending):
 
-- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   ⚡ Fair-code workflow automation platform widely deployed as the orchestration glue between e-commerce checkouts, 3PL reverse logistics webhooks, and ERP RMA statuses. Synchronizes return states, generates tracking notifications, and triggers refund approvals automatically without custom integration code.
 
-- **[Odoo Community Edition](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+- **[Odoo Community Edition](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
   🏬 Comprehensive open-source business suite handling internal transfers, receipts, deliveries, and reverse logistics within warehouse operations. Natively supports customer returns, supplier returns, quality inspection check-loops, and RMA scrap/restock movements.
 
-- **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+- **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
   📦 100% open-source ERP acting as a system of record for stock returns and RMA lifecycles. Natively supports sales returns, purchase returns, serial/batch tracking, quality inspection gating, and accounting credit memo generation linked directly to original invoices.
 
-- **[Camunda Platform (Community Edition)](https://github.com/camunda/camunda-bpm-platform)** [![GitHub stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform?style=social&color=white)](https://github.com/camunda/camunda-bpm-platform/stargazers)  
+- **[Camunda Platform (Community Edition)](https://github.com/camunda/camunda-bpm-platform)** [![GitHub_Stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform?style=social&color=white)](https://github.com/camunda/camunda-bpm-platform/stargazers)  
   🔀 Open-source BPMN workflow and decision automation engine ideal for modeling complex RMA authorization, grading steps, warranty evaluations, and disposition routing (restock, refurbish, recycle, or scrap) outside of hardcoded ERP rules.
 
-- **[ModernWMS](https://github.com/fjykTec/ModernWMS)** [![GitHub stars](https://img.shields.io/github/stars/fjykTec/ModernWMS?style=social&color=white)](https://github.com/fjykTec/ModernWMS/stargazers)  
+- **[ModernWMS](https://github.com/fjykTec/ModernWMS)** [![GitHub_Stars](https://img.shields.io/github/stars/fjykTec/ModernWMS?style=social&color=white)](https://github.com/fjykTec/ModernWMS/stargazers)  
   🏭 Modern, lightweight cross-platform warehouse management system designed for SMEs. Provides full receiving, stock movement, inventory allocation, and customer return check-in workflows with support for barcode scanners and mobile PDA devices.
 
-- **[Free WMS (.NET Clean Architecture)](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System)** [![GitHub stars](https://img.shields.io/github/stars/go2ismail/Asp.Net-Core-Inventory-Order-Management-System?style=social&color=white)](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System/stargazers)  
+- **[Free WMS (.NET Clean Architecture)](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System)** [![GitHub_Stars](https://img.shields.io/github/stars/go2ismail/Asp.Net-Core-Inventory-Order-Management-System?style=social&color=white)](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System/stargazers)  
   🏗️ Production-grade warehouse inventory and order management system built on .NET 9 Clean Architecture and CQRS/MediatR. Features dedicated **Sales Returns** and **Purchase Returns** modules with complete validation, inventory restock adjustment, and headless REST APIs.
 
-- **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)  
+- **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)  
   🏛️ Mature, enterprise-grade open-source ERP and e-business framework featuring comprehensive Return Material Authorization (RMA) tracking, return item status workflows, restocking fee calculations, replacement order generation, and refund processing.
 
-- **[OpenBoxes](https://github.com/openboxes/openboxes)** [![GitHub stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)  
+- **[OpenBoxes](https://github.com/openboxes/openboxes)** [![GitHub_Stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)  
   🏥 Open-source supply chain and inventory management system excelling at handling returned but undecided inventory. Explicitly models quarantine areas, inspection hold states, temporary reverse staging, and disposition tracking.
 
-- **[OpenWMS.org](https://github.com/openwms/org.openwms)** [![GitHub stars](https://img.shields.io/github/stars/openwms/org.openwms?style=social&color=white)](https://github.com/openwms/org.openwms/stargazers)  
+- **[OpenWMS.org](https://github.com/openwms/org.openwms)** [![GitHub_Stars](https://img.shields.io/github/stars/openwms/org.openwms?style=social&color=white)](https://github.com/openwms/org.openwms/stargazers)  
   🧩 Modular, microservice-based open-source Warehouse Management System built on Spring Boot. Handles inbound receipt of customer returns, stock identification, transport unit tracking, and warehouse routing for reverse logistics.
 
-- **[iDempiere](https://github.com/idempiere/idempiere)** [![GitHub stars](https://img.shields.io/github/stars/idempiere/idempiere?style=social&color=white)](https://github.com/idempiere/idempiere/stargazers)  
+- **[iDempiere](https://github.com/idempiere/idempiere)** [![GitHub_Stars](https://img.shields.io/github/stars/idempiere/idempiere?style=social&color=white)](https://github.com/idempiere/idempiere/stargazers)  
   🛡️ OSGi-based open-source ERP system featuring process-heavy, audit-compliant RMA workflows. Enforces strict authorization, inspection sign-offs, and multi-tier approval paths for returned goods and supplier claims.
 
-- **[OCA Stock Logistics Warehouse (Odoo Addons)](https://github.com/OCA/stock-logistics-warehouse)** [![GitHub stars](https://img.shields.io/github/stars/OCA/stock-logistics-warehouse?style=social&color=white)](https://github.com/OCA/stock-logistics-warehouse/stargazers)  
+- **[OCA Stock Logistics Warehouse (Odoo Addons)](https://github.com/OCA/stock-logistics-warehouse)** [![GitHub_Stars](https://img.shields.io/github/stars/OCA/stock-logistics-warehouse?style=social&color=white)](https://github.com/OCA/stock-logistics-warehouse/stargazers)  
   🚚 Community-maintained collection of advanced logistics, routing, and returns handling modules for Odoo, extending standard warehouse operations with RMA verification, return packaging, and routing rules.
 
-- **[Tryton](https://github.com/tryton/tryton)** [![GitHub stars](https://img.shields.io/github/stars/tryton/tryton?style=social&color=white)](https://github.com/tryton/tryton/stargazers)  
+- **[Tryton](https://github.com/tryton/tryton)** [![GitHub_Stars](https://img.shields.io/github/stars/tryton/tryton?style=social&color=white)](https://github.com/tryton/tryton/stargazers)  
   ⚙️ Modular open-source business application platform providing modular logistics logic. Accurately models return shipments, customer credit reconciliation, inventory devaluation, and full movement audit trails.
 
-- **[ShadowOS PDP with Pickup and Delivery](https://github.com/ShadowOS/Vechicle-Routing-Problem-VRP-with-Pickup-and-Delivery)** [![GitHub stars](https://img.shields.io/github/stars/ShadowOS/Vechicle-Routing-Problem-VRP-with-Pickup-and-Delivery?style=social&color=white)](https://github.com/ShadowOS/Vechicle-Routing-Problem-VRP-with-Pickup-and-Delivery/stargazers)  
+- **[ShadowOS PDP with Pickup and Delivery](https://github.com/ShadowOS/Vechicle-Routing-Problem-VRP-with-Pickup-and-Delivery)** [![GitHub_Stars](https://img.shields.io/github/stars/ShadowOS/Vechicle-Routing-Problem-VRP-with-Pickup-and-Delivery?style=social&color=white)](https://github.com/ShadowOS/Vechicle-Routing-Problem-VRP-with-Pickup-and-Delivery/stargazers)  
   🗺️ Vehicle Routing Problem (VRP) solver specifically targeting Pickup-and-Delivery Problems (PDPs). Applicable to reverse logistics routing, multi-stop customer return collections, and depot consolidation.
 
-- **[RELOG: Reverse Logistics Optimization](https://github.com/ANL-CEEESA/RELOG)** [![GitHub stars](https://img.shields.io/github/stars/ANL-CEEESA/RELOG?style=social&color=white)](https://github.com/ANL-CEEESA/RELOG/stargazers)  
+- **[RELOG: Reverse Logistics Optimization](https://github.com/ANL-CEEESA/RELOG)** [![GitHub_Stars](https://img.shields.io/github/stars/ANL-CEEESA/RELOG?style=social&color=white)](https://github.com/ANL-CEEESA/RELOG/stargazers)  
   🔬 Open-source optimization framework for reverse logistics and circular economy supply chains developed at Argonne National Laboratory. Formulates mixed-integer linear programming (MILP) models for facility location, collection networks, and recycling/refurbishment logistics.
 
-- **[Doli-Returns](https://github.com/zacharymelo/doli-returns)** [![GitHub stars](https://img.shields.io/github/stars/zacharymelo/doli-returns?style=social&color=white)](https://github.com/zacharymelo/doli-returns/stargazers)  
+- **[Doli-Returns](https://github.com/zacharymelo/doli-returns)** [![GitHub_Stars](https://img.shields.io/github/stars/zacharymelo/doli-returns?style=social&color=white)](https://github.com/zacharymelo/doli-returns/stargazers)  
   📋 Open-source returns management module for Dolibarr ERP adding a dedicated Customer Returns workflow to generate return slips, initiate stock return movements, and accept returned merchandise for restocking or refurbishment.
 
-- **[Dolibarr-Warranties](https://github.com/zacharymelo/Dolibarr-Warranties)** [![GitHub stars](https://img.shields.io/github/stars/zacharymelo/Dolibarr-Warranties?style=social&color=white)](https://github.com/zacharymelo/Dolibarr-Warranties/stargazers)  
+- **[Dolibarr-Warranties](https://github.com/zacharymelo/Dolibarr-Warranties)** [![GitHub_Stars](https://img.shields.io/github/stars/zacharymelo/Dolibarr-Warranties?style=social&color=white)](https://github.com/zacharymelo/Dolibarr-Warranties/stargazers)  
   📑 Warranty and RMA tracking extension for Dolibarr ERP that ties outgoing serialized inventory to warranty terms, enabling automated RMA verification and post-sale return service requests.
 
-- **[dolibarr-customer-inventory](https://github.com/zacharymelo/dolibarr-customer-inventory)** [![GitHub stars](https://img.shields.io/github/stars/zacharymelo/dolibarr-customer-inventory?style=social&color=white)](https://github.com/zacharymelo/dolibarr-customer-inventory/stargazers)  
+- **[dolibarr-customer-inventory](https://github.com/zacharymelo/dolibarr-customer-inventory)** [![GitHub_Stars](https://img.shields.io/github/stars/zacharymelo/dolibarr-customer-inventory?style=social&color=white)](https://github.com/zacharymelo/dolibarr-customer-inventory/stargazers)  
   🔍 Customer inventory aggregate module for Dolibarr giving support and returns agents immediate visibility into all delivered goods and active warranties directly on third-party cards prior to authorizing returns.
 
-- **[GreaterWMS](https://github.com/moccanism/GreaterWMS)** [![GitHub stars](https://img.shields.io/github/stars/moccanism/GreaterWMS?style=social&color=white)](https://github.com/moccanism/GreaterWMS/stargazers)  
+- **[GreaterWMS](https://github.com/moccanism/GreaterWMS)** [![GitHub_Stars](https://img.shields.io/github/stars/moccanism/GreaterWMS?style=social&color=white)](https://github.com/moccanism/GreaterWMS/stargazers)  
   🌐 Open-source warehouse management system (Apache 2.0) built on Python/Django and mobile clients, supporting multi-warehouse return receipt, cycle inspection, VMI, and reverse logistics routing.
 
-- **[OpenReturn](https://github.com/itgoesforward/openreturn)** [![GitHub stars](https://img.shields.io/github/stars/itgoesforward/openreturn?style=social&color=white)](https://github.com/itgoesforward/openreturn/stargazers)  
+- **[OpenReturn](https://github.com/itgoesforward/openreturn)** [![GitHub_Stars](https://img.shields.io/github/stars/itgoesforward/openreturn?style=social&color=white)](https://github.com/itgoesforward/openreturn/stargazers)  
   🤖 Open-source specification and reference implementation for the e-commerce return lifecycle, providing REST APIs, self-hostable Next.js consumer portals, and AI agent token delegation for return and exchange flows.
 
 ---
